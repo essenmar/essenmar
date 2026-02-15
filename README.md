@@ -10,10 +10,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-##
-![:essenmar](https://count.getloli.com/@:essenmar)?theme=moebooru
 
-###
+![:essenmar](https://count.getloli.com/@:essenmar?theme=moebooru)
+
 
 <!--
 **essenmar/essenmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
