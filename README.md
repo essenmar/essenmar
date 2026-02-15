@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Welcome+to+my+profile!;I%E2%80%99m+Mar%2C+16+years+old;I%E2%80%99m+a+CEH+penetration+tester;Always+trying+to+improve+my+skills)](https://git.io/typing-svg)
 <!--
 **essenmar/essenmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 what am i listening to?
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ybgebsdts7gw3wx4rul54qwmvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
   </a>
 </p>
+-->
+
+
+
