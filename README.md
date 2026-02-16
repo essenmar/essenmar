@@ -14,14 +14,11 @@
   </a>
 </div>
 
-###
 
 
 
 
 ![:essenmar](https://count.getloli.com/@:essenmar?theme=asoul)
-
-###
 
 <br clear="both">
 
