@@ -19,14 +19,6 @@
 
 [![:essenmar](https://count.getloli.com/@:essenmar?theme=asoul)](https://count.getloli.com/@:essenmar?name=%3Aessenmar&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=essenmar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph.svg">
