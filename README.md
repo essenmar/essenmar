@@ -14,11 +14,17 @@
   </a>
 </div>
 
-###
 
 
 ![:essenmar](https://count.getloli.com/@:essenmar?theme=asoul)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/essenmar/essenmar/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **essenmar/essenmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
