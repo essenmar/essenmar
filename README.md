@@ -1,10 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&width=600&height=48&lines=Welcome+to+my+profile!;I'm+Mar%2C+16+years+old;I%E2%80%99m+a+CEH+penetration+tester;Always+trying+to+improve+my+skills)](https://git.io/typing-svg)
 <img align="right" height="150" src="https://i.ibb.co/Cszr15gL/f792c4bdf5634c6ab0ddd76efa6e2dfb.gif"  />
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/bs3mar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
