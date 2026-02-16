@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=FFFCFC&width=435&lines=Welcome+to+my+profile!;I%E2%80%99m+Mar%2C+16+years+old;I%E2%80%99m+a+CEH+penetration+tester;Always+trying+to+improve+my+skills)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://i.ibb.co/Fbk5kpVd/8a266a935a82db27b3c75a8d6dab9b1a.gif"  />
+
 ###
 
 <div align="left">
@@ -10,6 +12,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
 
 ![:essenmar](https://count.getloli.com/@:essenmar?theme=moebooru)
 
