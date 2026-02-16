@@ -2,14 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&center=true&vCenter=true&width=435&height=48&lines=Welcome+to+my+profile!;I'm+Mar%2C+16+years+old;I%E2%80%99m+a+CEH+penetration+tester;Always+trying+to+improve+my+skills)](https://git.io/typing-svg)
 <img align="right" height="150" src="https://i.ibb.co/Cszr15gL/f792c4bdf5634c6ab0ddd76efa6e2dfb.gif"  />
 
-###
 
-<div align="left">
+
+<div align="center">
   <a href="https://www.instagram.com/bs3mar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/1084479161835475012" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
@@ -17,13 +17,26 @@
 
 
 
-![:essenmar](https://count.getloli.com/@:essenmar?theme=asoul)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/essenmar/essenmar/output/snake.svg" alt="Snake animation" />
+[![:essenmar](https://count.getloli.com/@:essenmar?theme=asoul)](https://count.getloli.com/@:essenmar?name=%3Aessenmar&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=essenmar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=essenmar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 
 <!--
 **essenmar/essenmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
