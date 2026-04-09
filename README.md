@@ -1,54 +1,55 @@
-## Hi there 👋
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&width=600&height=48&lines=Welcome+to+my+profile!;I'm+Mar%2C+16+years+old;I%E2%80%99m+a+CEH+penetration+tester;Always+trying+to+improve+my+skills)](https://git.io/typing-svg)
-<img align="right" height="150" src="https://i.ibb.co/Cszr15gL/f792c4bdf5634c6ab0ddd76efa6e2dfb.gif"  />
-
-
-
-<div align="left">
-  <a href="https://www.instagram.com/bs3mar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/1084479161835475012" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-
-
-
-
-[![:essenmar](https://m.h4ck.org.cn/@:essenmar?theme=rule34)](https://m.h4ck.org.cn/@essenmar?name=essenmar&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/essenmar/essenmar/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="center"></h1>
 
 ###
 
+[<p align="left">Hello World!!</p>](https://m.h4ck.org.cn/@essenmar?name=essenmar&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=0)
 
+###
 
-<!--
-**essenmar/essenmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"></h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-what am i listening to?
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ybgebsdts7gw3wx4rul54qwmvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
-  </a>
-</p>
--->
+<br clear="both">
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
 
+###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+</div>
+
+###
