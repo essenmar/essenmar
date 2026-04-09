@@ -10,7 +10,6 @@
 
 <h1 align="center"></h1>
 
-###
 
 <br clear="both">
 
@@ -32,10 +31,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
